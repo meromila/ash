@@ -1,0 +1,11 @@
+{
+  "fileKey": "IyxZABDbPh4mGlOGFi1H9s",
+  "scope": "guidebook foundations and specimen",
+  "pageId": "0:1",
+  "rootId": "22:45",
+  "collectionId": "VariableCollectionId:22:34",
+  "variables": ["VariableID:22:35", "VariableID:22:37", "VariableID:22:39", "VariableID:22:41"],
+  "vectorSpecimens": ["23:36", "23:40"],
+  "visualQA": "passed 2026-10-12",
+  "pending": ["licensed Muller Extra Bold file", "licensed Myriad Pro Regular file"]
+}
